@@ -1,34 +1,34 @@
-"Id";"Malay";"Jawi";"English";"Beka_1";"Beka_2";"Indonesian";"Dutch"
-1;"Kad";"کد";"Card";"Dahun";"Daun";"Kartu";"Kaart"
-2;"Tuala";"توال";"Towel";"Pemetap";"Petap";"Handuk";"Handdoek"
-3;"Wisel";"ويسل";"Whistle";"Pesuit";"Suit";"Peluit";"Fluit"
-4;"Jerigen";"جريکين";"Jerry can";"Kibut";"";"Jerigen";"Jerrican"
-5;"Tomato";"تومات";"Tomato";"Ranti";"Merah";"Tomat";"Tomaat"
-6;"Televisyen";"تيليۏيشن";"Television";"Sesiar";"";"Televisi";"Televisie"
-7;"Telefon";"تيليفون";"Telephone";"Pelagau";"Lagau";"Telepon";"Telefoon"
-8;"Oren";"اورين";"Orange";"Jingga";"";"Oranye";"Oranje"
-9;"Beg";"بيݢ";"Bag";"Rajut";"Jabir";"Tas";"Tas"
-10;"Mak cik";"ماء چيک";"Aunt";"Inak";"";"Tante";"Tante"
-11;"Resit";"رسيت";"Receipt";"Terimaan";"";"Struk";"Strook"
-12;"Cadar";"چادر";"Bed linen";"Cadar";"";"Sprei";"Sprei"
-13;"Sosej";"سوسج";"Sausage";"Belutak";"";"Sosis";"Saucijs"
-14;"Durian belanda";"دورين بىلاند";"Soursop";"Durian seberang";"";"Sirsak";"Zuurzak"
-15;"Sirap";"سيرڤ";"Syrup";"Derawa";"";"Sirup";"Siroop"
-16;"Kot";"کوت";"Coat";"Rasukan";"";"Mantel";"Mantel"
-17;"Simen";"سيمين";"Cement";"Gamping";"";"Semen";"Sement"
-18;"Saderi";"سدري";"Celery";"Ranting suri";"";"Seledri";"Selderij"
-19;"Baldi";"بلدي";"Bucket";"Timba";"";"Ember";"Emmer"
-20;"Selipar";"سليڤر";"Slippers";"Alas kaki";"";"Sandal";"Sandaal"
-21;"Pena";"ڤىنا";"Pen";"Canting";"";"Bolpen";"Balpen"
-22;"Gam";"ݢم";"Glue";"Lengket";"";"Lem";"Lum"
-23;"Cetak saring";"چتق ساريڠ";"Screen print";"Cetak saring";"";"Sablon";"Sjabloon"
-24;"Pejabat";"ڤجابت";"Office";"Pejabat";"";"Kantor";"Kantoor"
-25;"Zip";"زيڤ";"Zipper";"Karik";"Kancing Tarik";"Resleting";"Ritssluiting"
-26;"Berus";"بروس";"Brush";"Gundar";"";"Kaus";"Kwast"
-27;"Bil";"بيل";"Bill";"Tagihan";"";"Bon";"Bon"
-28;"Pensel";"ڤينسل";"Pencil";"Turis";"Tores";"Potlot";"Potlood"
-29;"Farmasi";"فرماسي";"Pharmacy";"Tetamba";"";"Apotek";"Apotheek"
-30;"Polis";"ڤولس";"Police";"Jejenang";"Mata-mata";"Polisi";"Politie"
-31;"Pam";"ڤم";"Pump";"Gumba";"";"Pompa";"Pomp"
-32;"Baju T";"باجو تي";"T-shirt";"Keletang";"";"Kaus";"Kous"
-33;"Tikus belanda";"تيکس بىلاند";"Guinea pig";"Tikus babi";"";"Marmut";"Marmoot"
+Id,Malay,Jawi,English,Beka_1,Beka_2,Indonesian,Dutch
+1,Kad,کد,Card,Dahun,Daun,Kartu,Kaart
+2,Tuala,توال,Towel,Pemetap,Petap,Handuk,Handdoek
+3,Wisel,ويسل,Whistle,Pesuit,Suit,Peluit,Fluit
+4,Jerigen,جريکين,"Jerry can",Kibut,,Jerigen,Jerrican
+5,Tomato,تومات,Tomato,Ranti,Merah,Tomat,Tomaat
+6,Televisyen,تيليۏيشن,Television,Sesiar,,Televisi,Televisie
+7,Telefon,تيليفون,Telephone,Pelagau,Lagau,Telepon,Telefoon
+8,Oren,اورين,Orange,Jingga,,Oranye,Oranje
+9,Beg,بيݢ,Bag,Rajut,Jabir,Tas,Tas
+10,"Mak cik","ماء چيک",Aunt,Inak,,Tante,Tante
+11,Resit,رسيت,Receipt,Terimaan,,Struk,Strook
+12,Cadar,چادر,"Bed linen",Cadar,,Sprei,Sprei
+13,Sosej,سوسج,Sausage,Belutak,,Sosis,Saucijs
+14,"Durian belanda","دورين بىلاند",Soursop,"Durian seberang",,Sirsak,Zuurzak
+15,Sirap,سيرڤ,Syrup,Derawa,,Sirup,Siroop
+16,Kot,کوت,Coat,Rasukan,,Mantel,Mantel
+17,Simen,سيمين,Cement,Gamping,,Semen,Sement
+18,Saderi,سدري,Celery,"Ranting suri",,Seledri,Selderij
+19,Baldi,بلدي,Bucket,Timba,,Ember,Emmer
+20,Selipar,سليڤر,Slippers,"Alas kaki",,Sandal,Sandaal
+21,Pena,ڤىنا,Pen,Canting,,Bolpen,Balpen
+22,Gam,ݢم,Glue,Lengket,,Lem,Lum
+23,"Cetak saring","چتق ساريڠ","Screen print","Cetak saring",,Sablon,Sjabloon
+24,Pejabat,ڤجابت,Office,Pejabat,,Kantor,Kantoor
+25,Zip,زيڤ,Zipper,Karik,"Kancing Tarik",Resleting,Ritssluiting
+26,Berus,بروس,Brush,Gundar,,Kaus,Kwast
+27,Bil,بيل,Bill,Tagihan,,Bon,Bon
+28,Pensel,ڤينسل,Pencil,Turis,Tores,Potlot,Potlood
+29,Farmasi,فرماسي,Pharmacy,Tetamba,,Apotek,Apotheek
+30,Polis,ڤولس,Police,Jejenang,Mata-mata,Polisi,Politie
+31,Pam,ڤم,Pump,Gumba,,Pompa,Pomp
+32,"Baju T","باجو تي",T-shirt,Keletang,,Kaus,Kous
+33,"Tikus belanda","تيکس بىلاند","Guinea pig","Tikus babi",,Marmut,Marmoot
